@@ -10,3 +10,6 @@ This repository contains projects and visualizations created from the Data Scien
 
 
 ## Visual Communications
+
+
+### EDITED ON LOCAL
